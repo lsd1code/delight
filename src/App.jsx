@@ -85,8 +85,7 @@ const MVPCard = () => {
         {/* Hidden ACE button */}
         <button
           onClick={() => setShowAceMessage(true)}
-          className="absolute top-2 right-2 opacity-0 hover:opacity-100 
-            transition-opacity duration-300 text-sm bg-red-500 text-white
+          className="absolute top-2 right-2 bg-red-500 text-white
             px-2 py-1 rounded-full"
         >
           ACE
