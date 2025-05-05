@@ -96,9 +96,9 @@ const MVPCard = () => {
           <div className="absolute inset-0 bg-black/50 flex items-center justify-center
             animate-fade-in">
             <div className="bg-white p-6 rounded-xl max-w-xs text-center">
-              <h2 className="text-2xl font-bold text-red-600 mb-4">You're My Ace!🏐</h2>
+              <h2 className="text-2xl font-bold text-red-600 mb-4">You're My Ace! 🏐</h2>
               <p className="mb-4">Never forget hore nna ke rata wena fela, lerato laka ❤️</p>
-              <p className="mb-4">❤️Lesedi X Itu❤️</p>
+              <p className="mb-4">Lesedi ❤️ Itu</p>
               <button
                 onClick={() => setShowAceMessage(false)}
                 className="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-600"
